@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am Yusaki I am currently working on SnowBoltz and RBXCommunityth to improve my self and customers with the best service!
 <!--
 **Yusaki-Akito/Yusaki-Akito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Awish-Senpai's github stats](https://github-readme-stats.vercel.app/api?username=Yusaki-Akito&show_icons=true&theme=tokyonight)
+

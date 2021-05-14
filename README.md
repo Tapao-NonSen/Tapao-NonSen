@@ -1,11 +1,12 @@
 <h1 align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yusaki-Akito&show_icons=true&theme=tokyonight" alt="Github Star" style="width:auto;">
+  <br>
   Hello there!
-  ![Yusaki's github stats](https://github-readme-stats.vercel.app/api?username=Yusaki-Akito&show_icons=true&theme=tokyonight)
 </h1>
 
 ##  About
 - Author of **[SnowBoltz](https://snowboltz.net)**, website for buying something on the game
-- Autor of **[RBXCommunityTH)[https://rbxcommunityth.com]**, community website for Thai ROBLOX gammers
+- Autor of **[RBXCommunityTH](https://rbxcommunityth.com)**, community website for Thai ROBLOX gammers
 - Contributor of **[Premid Presence](https://premid.app/users/439582316873121793)**, with 1000+ users that use my presence
 
 

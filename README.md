@@ -1,8 +1,6 @@
-![Yusaki's github stats](https://github-readme-stats.vercel.app/api?username=Yusaki-Akito&show_icons=true&theme=tokyonight)
-
-
 <h1 align="center">
   Hello there!
+  ![Yusaki's github stats](https://github-readme-stats.vercel.app/api?username=Yusaki-Akito&show_icons=true&theme=tokyonight)
 </h1>
 
 ##  About

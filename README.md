@@ -6,7 +6,6 @@
 
 ##  About
 - Author of **[SnowBoltz](https://snowboltz.net)**, website for buying something on the game
-- Autor of **[RBXCommunityTH](https://rbxcommunityth.com)**, community website for Thai ROBLOX gammers
 - Contributor of **[Premid Presence](https://premid.app/users/439582316873121793)**, with 1000+ users that use my presence
 
 

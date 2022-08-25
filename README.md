@@ -1,8 +1,9 @@
 <h1 align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yusaki-Akito&show_icons=true&theme=tokyonight" alt="Github Star" style="width:auto;">
   <br>
-  Hello there!
+  👋 Hello there!
 </h1>
+
 
 ##  About
 - Author of **[SnowBoltz](https://snowboltz.net)**, website for buying something on the game
@@ -14,6 +15,7 @@
 -  Hands on Experience: Quick.db, Node Express, PM2, Github, Gitlab, Dialogflow, Manychat, Charfuel, Discord.js, SnowBoltz Marketer, SnowBoltz Planner, Plesk, Cloudflare
 
 The experience above meant that I was able to use it fluently
+
 
 <h1 align="center">
   <img src="https://lanyard.cnrad.dev/api/439582316873121793" alt="Discord" style="width:auto;">

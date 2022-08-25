@@ -15,8 +15,8 @@
 
 The experience above meant that I was able to use it fluently
 
-<h1 align="center">
-![Discord Presence](https://lanyard.cnrad.dev/api/439582316873121793)
+<h1 align="center">[
+  <img src="https://lanyard.cnrad.dev/api/439582316873121793" alt="Discord" style="width:auto;">
 ![rating](https://img.shields.io/badge/rating-★★★★★-brightgreen)
 </h1>
 

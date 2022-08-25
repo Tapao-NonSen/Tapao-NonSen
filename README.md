@@ -16,7 +16,7 @@
 The experience above meant that I was able to use it fluently
 
 <h1 align="center">
-[![Discord Presence](https://lanyard.cnrad.dev/api/439582316873121793)](https://discord.com/users/439582316873121793)
+![Discord Presence](https://lanyard.cnrad.dev/api/439582316873121793)
 ![rating](https://img.shields.io/badge/rating-★★★★★-brightgreen)
 </h1>
 

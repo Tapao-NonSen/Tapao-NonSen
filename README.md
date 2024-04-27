@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yusaki-Akito&show_icons=true&theme=tokyonight" alt="Github Star" style="width:auto;">
   <br>
   👋 Hello there!
 </h1>
@@ -21,5 +20,6 @@ The experience above meant that I was able to use it fluently
 
 <h1 align="center">
   <img src="https://lanyard.cnrad.dev/api/439582316873121793" alt="Discord" style="width:auto;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yusaki-Akito&show_icons=true&theme=tokyonight" alt="Github Star" style="width:auto;">
 </h1>
 

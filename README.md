@@ -14,6 +14,8 @@
 
 -  Hands on Experience: Quick.db, Node Express, PM2, Github, Gitlab, Dialogflow, Manychat, Charfuel, Discord.js, SnowBoltz Marketer, SnowBoltz Planner, Plesk, Cloudflare
 
+-  Digital Marketing student @ KKU/KKBS
+
 The experience above meant that I was able to use it fluently
 
 

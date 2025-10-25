@@ -5,6 +5,7 @@
 ## About Me
 
 - **Author of [SnowBoltz](https://snowboltz.net)** — a marketplace platform for in-game item purchases.
+- **Author of [Nyx AI Discord Bot](https://nyxbot.app)** - an AI Discord bot with multi functionality
 - **Contributor to [PreMiD Presence](https://premid.app/users/439582316873121793)** — my custom presence is actively used by over 1,000 users.
 
 ## 🖥️ Tech Stack

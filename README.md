@@ -11,7 +11,7 @@
 ## 🖥️ Tech Stack
 
 - **Languages**: HTML, PHP, JavaScript, Python
-- **Frameworks & Tools**: Node.js (Express), Discord.js, Quick.db, PM2, Github, Gitlab, OpenAI
+- **Frameworks & Tools**: Node.js (Express), Discord.js, MongoDB, PM2, Github, Gitlab, OpenAI
 - **Chatbot & AI**: Dialogflow, Manychat, Charfuel, OpenAI
 - **Other**: Plesk, Cloudflare, SnowBoltz Marketer & Planner
 

@@ -22,8 +22,4 @@
 My hands-on experience allows me to work fluently across development, automation, and marketing tasks.
 
 ## 📊 Stats & Presence
-
-<h1 align="center">
-  <img src="https://lanyard.cnrad.dev/api/439582316873121793" alt="Discord Status" style="width:auto;">
-  ![Node Summary](https://your-domain.com/api/nodes/widget)
-</h1>
+![Node Summary](https://tapao.nyxbot.app/api/nodes/widget) ![Discord Status](https://lanyard.cnrad.dev/api/439582316873121793)

@@ -25,5 +25,5 @@ My hands-on experience allows me to work fluently across development, automation
 
 <h1 align="center">
   <img src="https://lanyard.cnrad.dev/api/439582316873121793" alt="Discord Status" style="width:auto;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tapao-NonSen&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="width:auto;">
+  ![Node Summary](https://your-domain.com/api/nodes/widget)
 </h1>
